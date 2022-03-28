@@ -1,0 +1,16 @@
+button {
+  border: 3px black solid;
+  background-color: lightsalmon;
+  width: 100px;
+  height: 100px;
+}
+
+.isDim {
+  background-color: darkblue;
+  color: cyan;
+}
+
+.isLit {
+  background-color: cyan;
+  color: darkblue;
+}

@@ -1,0 +1,11 @@
+.main {
+    max-width: 40rem;
+    margin: auto;
+    outline: 5px solid black;
+}
+
+.centered {
+    min-width: 39rem;
+    margin: auto;
+    outline: 3px solid green;
+}
